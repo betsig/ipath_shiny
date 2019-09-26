@@ -1,0 +1,10 @@
+name: ipath_shiny
+title:
+username:
+account: uts-c3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1234240
+bundleId: 2445769
+url: https://uts-c3.shinyapps.io/ipath_shiny/
+when: 1569456688.52931
